@@ -1,4 +1,4 @@
-# Julio Contreras's cal poly githun
+# Julio Contreras's cal poly github
 ## projects:
 
 1. [retail analytics](https://linkmehere.com)
